@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "notebook-django"
+name = "django-notebook"
 version = "0.1.0"
 description = ""
 authors = ["kirienkovitaliy <kirienkovitaliy1989@gmail.com>"]
 readme = "README.md"
-packages = [{include = "notebook_django"}]
+packages = [{include = "django_notebook"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
